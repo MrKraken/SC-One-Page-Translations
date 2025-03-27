@@ -848,6 +848,207 @@
 					<p>Karajtek</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
+
+			<v:sampleDataSet dataSetName="tr_TR">
+				<TITLE>
+					<p>YÖRÜNGESEL LAZER ATEŞLEMESİ</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>TEK SAYFALIK REHBER</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>‘Terk Edilmiş’ Hathor tesisleri, yer &amp; hava aktivitelerini birleştiren bir görev
+						konumudur</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>İLK</p>
+					<p>BAKIŞ</p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>Hızlı yeniden doğma oranına sahip 9Tails çetesi tarafından işgal edilmiştir</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>Doğrulanmamış olanlar da dahil, tesislere yönlendiren birkaç yeni paralı asker kontratı
+						bulunmaktadır</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>Aberdeen &amp; Daymar'da 2 Yörüngesel Lazer Platformu (OLP) bulunmaktadır</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>Her OLP, 1 işaretlenmemiş kontrol sığınağı &amp;</p>
+					<p>3 Gezegensel Hizalanma Tesisi (PAF) ile bağlantılıdır</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>ÖNCE</p>
+					<p>GÜVENLİK</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>Hazırlıklı olun, NPC’ler hızlı yenilenir &amp; sert vururlar</p>
+					<p>Nursa/Medipin/Cutty Red veya C8R almak iyi bir fikirdir</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>PAF/OLP aktiviteleri için gereken eşyalar:</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>MaxLift Traktör</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>Tıbbi donanım</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>Sigorta</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>ADIM 1</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>GEZEGENSEL HİZALANMA TESİSİ</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>ANA HEDEF</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>Her konum için 3 ‘Hizalanma Kartı’ edinin ve PAF-I, PAF-II &amp; PAF-III'teki çanak
+						kontrollerini etkinleştirin</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						Küçük binalardaki bakım kiosklarını bulun; mavi garaj kapılarını açarak yağma odalarına
+						veya bir güvenlik kioskuna erişim sağlar
+					</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>PAF Bakım Anahtarları &amp; PAF Güvenlik Anahtarları yazdırmanın 45 dakikalık bir bekleme süresi
+						vardır</p>
+					<p></p>
+					<p>3 Güvenlik anahtarı elde ettiğinizde, çanak binasının tabanına giderek Güvenlik, İletişim &amp;
+						Yönetim odalarına erişin</p>
+					<p></p>
+					<p>Her odadan hizalanma kartlarını edinin (Kartın yeniden doğma süresi bilinmiyor)</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>3 Güvenlik anahtarı elde ettiğinizde, çanak binasının tabanına giderek Güvenlik, İletişim &amp;
+						Yönetim odalarına erişin
+					</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>Her odadan hizalanma kartlarını edinin (Kartın yeniden doğma süresi bilinmiyor)</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>Her kartı çanak kontrol konsoluna yerleştirin (1 dakikalık döngü süresi) - Bu işlem </p>
+					<p>kontrol çevresindeki ergen Valakkar'ları uyandıracaktır</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>Çanak hizalandığında, karşıdaki şarj istasyonu kapısı açılacaktır</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>GP-XP Battery'yi OLP'ye götürün (1g'de MaxLift gereklidir)</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>ANAHTARI BOŞA HARCAMAYIN, PARKUR YAPABİLİRSİNİZ!</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>PAF Anahtarları</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>Hizalanma kartı</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>ADIM 2</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>YÖRÜNGESEL LAZER PLATFORMU</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>ANA HEDEF</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>Lazeri çalıştırın &amp; Lazer etkinleştirme anahtarı elde edin</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>YAN HEDEF</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>Ana kontrol alanında 2 OLP Depolama anahtarı yazıcısı, 4 Depo Odasına erişmek için
+						kullanılabilir</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>GP-XP Battery'leri 2 iniş platformundaki açık güç ünitelerine traktörle taşıyın</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>Merkezi kontrol odasına gidin (alt kat)</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						Eğer hepsi güçlendirilmiş &amp; hizalanmışsa: Lazer etkinleştirme anahtarı yazdırma ve lazeri
+						başlatma butonu ortada bulunur
+					</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>OLP DEPOLAMA ANAHTARI</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>YERYÜZÜ ETKİNLEŞTİRME SIĞINAĞI</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>ADIM 3</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>ANA HEDEF</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>Sığınağı bulun &amp; lazeri etkinleştirin!</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>Sığınağın belirteci veya işareti yoktur &amp; fark etmesi zor olabilir, OLP'deki lazer
+						çıkış noktasının tam altına inin
+					</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>Yüklenme mesafesinde değilseniz kare şeklindeki arazi yırtığına bakın</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>Sığınak, lazer çarpma noktasından yaklaşık 1 km uzaklıktadır</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>Bulduğunuzda, lazer etkinleştirme anahtarını takın &amp; 5 saniyelik geri sayımı başlatın!
+						(dışarı koşmak için tam zaman)</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>LAZER ÇARPMA ALANI</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>ADIM 4</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>ANA HEDEF</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>Kazın kazın!</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>Lazer çarpma alanı, elle kazı &amp; ROC cevherleri dolu bir mağara açar</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium &amp; Carinite karışık boyutlardadır</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>CEVHERLER ÇOK HASSAS</p>
+					<p>GÜCÜ ÇOK DİKKATLİCE YÖNETİN</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>Vitaefinis</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
 		</v:sampleDataSets>
 	</variableSet>
 </variableSets>
