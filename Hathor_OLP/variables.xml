@@ -77,7 +77,7 @@
 			<variable  category="&ns_flows;" trait="textcontent" varName="TRANSLATED_BY"></variable>
 		</variables>
 		<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
-			<!-- COPY FROM HERE - DO NOT REMOVE OR REPLACE -->
+			
 			<v:sampleDataSet  dataSetName="en_GB">
 				<TITLE>
 					<p>ORBITAL LASER IGNITION</p>
@@ -269,7 +269,7 @@
 					<p>MrKraken</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
-			<!-- END OF COPY BLOCK -->
+			
 			
 			
 			<v:sampleDataSet  dataSetName="fr_FR">
@@ -466,7 +466,199 @@
 			</v:sampleDataSet>
 
 
-					<v:sampleDataSet  dataSetName="hu_HU">
+			<v:sampleDataSet  dataSetName="zh_CN">
+				<TITLE>
+					<p>轨道激光点火</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>一图流教程</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>"废弃的"      Hathor 设施是这一次的任务目标地点，它是结合了地面以及空中战斗的沙盒活动
+						</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>任务</p>
+					<p>简介</p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>     9Tails 占领了这个地方，敌人的生成频率很高</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>有几个新的雇佣兵合约来把你引导到这些设施，包括一些未经验证的雇佣兵合约</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>阿伯丁和戴玛尔各有两个轨道激光平台（OLP）</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>每一个轨道激光平台（OLP）都会与三个平台校准设施（PAF）</p>
+					<p>以及一个未在星图上标记的控制地堡关联</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>安全</p>
+					<p>第一</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>做好准备,敌对 NPC 的生成速度很快，伤害很高</p>
+					<p>带上一架大熊座医疗 / 水龟医疗 / 红弯刀 / C8R 是明智的决定</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>参加 PAF/OLP 活动必须携带以下工具：</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>极限抬升 牵引光束</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>医疗物品</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>保险丝</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>第一阶段</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>平台校准设施</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>主要目标</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>在每个位置获取 3 个“校准刀片”以激活 PAF-I、PAF-II 和 PAF-III 的碟形天线控制装置</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						寻找天线周围较小建筑中的维护钥匙打印机以开启蓝色仓库门，蓝门内可能是奖励房或者安保钥匙打印机
+						</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>维护钥匙和安保钥匙分别有 45 分钟的打印冷却时间</p>
+					<p></p>
+					<p>当你拿到三张安保钥匙之后，你可以起身前往天线的底部，进入标有 SECURITY、COMMS和 ADMIN 的房间
+						</p>
+					<p></p>
+					<p>从每一个房间中拿走校准刀片（刷新时间未知）</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>当你拿到三张安保钥匙之后，你可以起身前往天线的底部，进入标有 SECURITY、COMMS 和 ADMIN 的房间
+						</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>从每一个房间中拿走校准刀片（刷新时间未知）</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>将所有刀片插入碟形天线控制系统（每插入一个有 1 分</p>
+					<p>钟旋转时间）会有幼年体瓦拉卡从控制台周围钻出</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>当碟形天线成功校准后，对面的黄色仓库门就会开启</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>牵引 GP-XP Large Industrial Battery 到轨道激光平台（在 1G 重力环境中需要大牵引枪）</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>某些房间可以直接跑酷进入，不必浪费钥匙！</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>PAF 钥匙</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>校准刀片</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>第二阶段</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>轨道激光平台</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>主要目标</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>为激光充能并获取激光启动钥匙</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>可选任务</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>在主控制区域的 2 个 OLP 仓库钥匙打印机打印的钥匙可以打开 4 个存储仓库</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>牵引 GP-XP Batteries 到两侧停机坪上已打开的动力单元</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>前往中央控制室（下层）</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						当供电和校准全部完成后：Activation按钮将会出现在控制台中央，点击即可打印激光激活钥匙并初始化激光充能
+						</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>OLP 存储仓库钥匙</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>地面激活地堡</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>第三阶段</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>主要目标</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>寻找地堡 &amp; 启动激光！</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>地堡没有信标或标记，很难被发现，从 OLP 上的激光发射点垂直向下找
+						</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>如果不在地形加载范围内，请寻找一个方形的地形裂口</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>地堡在距离激光撞击点约 1 公里处。</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>一旦找到地堡，插入激光激活钥匙并开始 5 秒倒计时！（时间刚好够你跑到外面）</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>激光撞击位置</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>第四阶段</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>主要目标</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>探索洞穴！</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>激光撞击位置打开了一个洞穴，充满可以被手动工具或 ROC 开采的矿石</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium 和 Carinite 尺寸各异</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>矿石易碎</p>
+					<p>注意激光力度</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>02 / 小废物A酱 / 星际公民中文百科</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
+
+			<v:sampleDataSet  dataSetName="hu_HU">
 				<TITLE>
 					<p>ORBITÁLIS LÉZERINDÍTÁS</p>
 				</TITLE>
