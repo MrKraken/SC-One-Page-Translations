@@ -849,6 +849,200 @@
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
 		</v:sampleDataSets>
+
+		<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
+			
+			<v:sampleDataSet  dataSetName="es_MX">
+				<TITLE>
+					<p>ENCENDIDO DE LÁSER ORBITAL</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>ONE-PAGE GUIDE</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>Las instalaciones «abandonadas» de Hathor son un lugar de misión combinada con actividad tipo sandbox para tierra y vuelo
+						</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>EN</p>
+					<p>RESUMEN</p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>Ocupado por la banda 9Tails con una tasa de reaparición rápida.</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>Hay varios contratos de mercenario nuevos que te dirigen a las instalaciones, entre los que se incluyen Contratos no verificados</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>Aberdeen y Daymar tienen 2 plataformas orbitales láser (OLP)</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>Cada plataforma está vinculada a 1 búnker de control sin marcar y a</p>
+					<p>3 Instalaciones de Alineación Planetaria (PAF)</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>SEGURIDAD</p>
+					<p>PRIMERO</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>Prepárate, los NPCs reaparecen rápido y pegan fuerte.</p>
+					<p>Es buena idea llevar un Nursa/Medipin/Cutty Red o C8R.</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>Elementos necesarios para las operaciones PAF/OLP:</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>MaxLift Tractor</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>SUMINISTROS MÉDICOS</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>FUSE</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>ETAPA 1</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>INSTALACIÓN DE ALINEACIÓN PLANETARIA</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>OBJETIVO PRINCIPAL</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>Consigue 3 "Tarjetas de alineación" por ubicación para activar los controles de la antena en PAF-I, PAF-II y PAF-III.</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						Busca los quioscos de mantenimiento en los edificios más pequeños para abrir las puertas azules de los talleres que proporcionan salas de loot o acceso a un quiosco de seguridad.
+						</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>La impresión de las tarjetas de mantenimiento PAF y las tarjetas de seguridad PAF tiene un tiempo de reutilización de 45 minutos.</p>
+					<p></p>
+					<p>Cuando tengas 3 tarjetas de seguridad, dirígete a la base del edificio de la antena para acceder a las salas de seguridad, comunicaciones y administración.
+						</p>
+					<p></p>
+					<p>Consigue las tarjetas de alineación de cada sala (tiempo de reaparición de las tarjetas desconocido).</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>Cuando tengas 3 tarjetas de seguridad, dirígete a la base del edificio de la antena para acceder a las salas de seguridad, comunicaciones y administración.
+						</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>Consigue las tarjetas de alineación de cada sala (tiempo de reaparición de las tarjetas desconocido).</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>Inserte cada tarjeta en la consola de control de la antena (1 minuto de ciclo) - Esto despertará </p>
+					<p>al joven Valakkar cerca de los controles.</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>Cuando la antena esté alineada, la puerta opuesta de la estación de carga se abrirá.</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>Lleva la batería GP-XP hasta OLP (MaxLift necesaria a 1g)</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>¡NO DESPERDICIES UNA TARJETA CUANDO PUEDES HACER PARKOUR!</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>TARJETA PAF</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>Tarjeta de alineación</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>ETAPA 2</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>Plataforma orbital láser</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>OBJETIVO PRINCIPAL</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>Encienda el láser y obtenga la tarjeta de activación del láser.</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>INTERÉS SECUNDARIO</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>Imprimir 2 tarjetas OLP de almacenamiento en la zona de control principal para acceder a las 4 salas de almacenamiento.</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>Instalar las baterías GP-XP a las unidades de potencia abiertas en las 2 plataformas de aterrizaje.</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>Dirígete a la sala de control central (planta baja)</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						Si todo está encendido y alineado: El botón de activación estará en el centro para imprimir la tarjeta de activación del láser e iniciar la carga del láser.
+						</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>OLP TARJETA DE ALMACENAMIENTO</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>BÚNKER DE ACTIVACIÓN EN TIERRA</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>ETAPA 3</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>OBJETIVO PRINCIPAL</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>Encuentra el búnker y activa el láser.</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>El búnker no tiene ninguna marca y puede ser difícil de detectar, dirígete hacia abajo desde el punto de salida del láser en el OLP.
+						</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>Buscamos una zona cuadrada como la que se ve en el cuadro naranja.</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>El búnker está aproximadamente a 1 km del punto de impacto del láser.</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>Una vez encontrado, inserta la Tarjeta de Activación del Láser e inicia la cuenta atrás de 5 segundos. (tiempo suficiente para salir corriendo)</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>SITIO DEL IMPACTO LÁSER</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>ETAPA 4</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>OBJETIVO PRINCIPAL</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>¡Cava, cava, cava!</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>El lugar donde impacta el láser abre una cueva llena de minerales de Mano y con el ROC.</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium y Carinite en diferentes tamaños.</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>LOS MINERALES SON EXTREMADAMENTE DELICADOS</p>
+					<p>GESTIONA LA ENERGÍA CON CUIDADO</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>Kadesh9 - NovakCorp</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
 	</variableSet>
 </variableSets>
 </svg>
