@@ -464,6 +464,198 @@
 					<p>kiouv</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
+
+
+					<v:sampleDataSet  dataSetName="hu_HU">
+				<TITLE>
+					<p>ORBITÁLIS LÉZERINDÍTÁS</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>Egyoldalas útmutató</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>A ‘Derelict’      Hathor létesítményei egy sandbox küldetés helyszínei földi és légi aktivitással fűszerezve
+						</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>Áttekintés</p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>A helyszínt a     9Tails banda uralja és gyorsan respawnolnak</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>Számos új Mercenary megbízás van, amelyek a létesítményekhez irányítanak, beleértve az Unverified Contractokat is</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>Aberdeen és Daymar egyaránt 2 Orbitális Lézerplatfromokkal (OLP) rendelkezik</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>Minden OLP egy jelöletlen vezérlőbunkerhez és</p>
+					<p>3 bolygóigazítási létesítményhez (játékban PAF) kapcsolódik</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>ELSŐ A</p>
+					<p>BIZTONSÁG</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>Légy résen, az ellenséges NPC-k hamar újraélednek és nagyot "ütnek"</p>
+					<p>Jó ötlet magaddal vinni egy Nursa/Medipin/Cutty Red vagy C8R járművet</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>Szükséges itemek a PAF/OLP aktivitáshoz:</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>MaxLift Tractor</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>Orvosi felszerelések</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>Biztosíték (Fuse)</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>1. SZAKASZ</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>BOLYGÓIGAZÍTÁSI LÉTESÍTMÉNY</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>1. SZAKASZ</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>Szerezz 3 Alignment Bladet helyszínenként hogy aktiválhasd az antennákat a PAF-I, PAF-II és PAF-III helyszíneken</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						Keresd a maintenance kioszkokat a kisebb épületekben, hogy hozzáférést szerezz a kék garázskapukhoz, ahol lootot vagy a security kártyát szerezhetsz.
+						</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>A PAF Maintenance és PAF Security kártyák nyomtatóin 45 perc cooldown van</p>
+					<p></p>
+					<p>Ha megvan a 3 Security Kártyád, haladj az antenna épületéhez hogy hozzáférhess a Security. Comms és Admin szobákhoz
+						</p>
+					<p></p>
+					<p>Szerezd meg az Alignment Blade-eket minden szobában (respawn idő ismeretlen)</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>Ha megvan a 3 Security Kártyád, haladj az antenna épületéhez hogy hozzáférhess a Security. Comms és Admin szobákhoz
+						</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>Szerezd meg az Alignment Blade-eket minden szobában (respawn idő ismeretlen)</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>Helyezd be a Bladeket az antenna vezérlőjébe (percenként egyet) - Ez felébreszti a </p>
+					<p>Juvenile Valakkarokat a vezérlők körül</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>Az antenna kalibrációja után a szemben lévő töltőállomás ajtaja kinyílik</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>Juttasd fel a GP-XP akkumulátort az OLP-hez (Maxlift szükséges a mozgatáshoz)</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>NE PAZAROLJ KÁRTYÁT HA PARKOUROZHATSZ!</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>PAF KÁRTYÁK</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>Alignment bladeK</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>2. SZAKASZ</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>Orbitális lézerplatform</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>FŐ CÉL</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>Kapcsold be az állomást, és szerezd meg a Lézeraktiváló kulcsot</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>MELLÉKCÉL</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>2 OLP Raktár Kulcsnyomtató a fő vezérlőteremben a 4 Raktárhoz való hozzáféréshez</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>Tractorbeammel helyezd be a GP-XP Akkumulátorokat a 2 leszállóhelyen lévő nyitott tápegységekbe</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>Haladj a fő vezérlőterembe (alsó szint)</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						Ha minden be van kapcsolva és összehangolva: Az aktiváló gomb középen lesz a lézer aktiváló kulcsának kinyomtatásához és a lézer töltésének elindításához
+						</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>OLP Raktárkulcs</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>VEZÉRLŐBUNKER</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>3. SZAKASZ</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>FŐ CÉL</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>Találd meg a bunkert és aktiváld a lézert!</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>A Bunkernek nincs jele vagy jelölése és nehéz kiszúrni. Haladj egyenesen lefelé az OLP lézersugarának kibocsátási pontjától
+						</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>Keresd a négyzet alakú térburkolatot, ha az nem tölt be azonnal</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>A Bunker kb. 1 km-re van a lézer becsapódási pontjától</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>Miután megtaláltad, helyezd be a Lézeraktiváló kulcsot, majd kezdődik az 5 másodperces visszaszámlálás (pont elég, hogy kirohanj)</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>LÉZER BECSAPÓDÁSI PONT</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>4. SZAKASZ</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>FŐ CÉL</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>Gödörre fel!</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>A becsapódási pont egy barlang bejáratot nyit meg, amely Kézi és ROC bányászatot igénylő nyersanyagokat tartalmaz</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium és Carinite különböző nagyságokban</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>AZ ÉRCEK RENDKÍVÜL ÉRZÉKENYEK</p>
+					<p>ÓVATOSAN KEZELD AZ ENERGIÁT</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>Karajtek</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
 		</v:sampleDataSets>
 	</variableSet>
 </variableSets>
