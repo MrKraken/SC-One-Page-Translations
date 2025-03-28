@@ -848,6 +848,198 @@
 					<p>Karajtek</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
+
+			<v:sampleDataSet  dataSetName="ru_RU">
+				<TITLE>
+					<p>ЗАПУСК ОРБИТАЛЬНОГО ЛАЗЕРА</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>ОДНО-СТРАНИЧНЫЙ ГАЙД</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>Платформы      Hathor это место проведения миссий. Некая песочница для наземных и лётных заданий
+						</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>КОРОТКО</p>
+					<p></p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>Оккупированы бандой     9Tails с частым возрождением</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>Контракты можно получить в разделе НАЙМ; так-же доступны в непроверенных контрактах</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>На Aberdeen и Daymar есть две Орбитальные Лазерные Платформы (OLP)</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>Каждая платформа OLP связана с одним бункером управления (без координат) и</p>
+					<p>3-мя Планетарными Станциями Коррекции (PAF)</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>БЕЗОПАСНОСТЬ</p>
+					<p>ПРЕЖДЕ ВСЕГО</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>Будь готов, NPC появляются быстро и бьют больно</p>
+					<p>Хорошая идея взять медицинский транспорт с точкой возрождения</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>Необходимое оборудование для активностей на PAF/OLP:</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>MaxLift Tractor</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>МЕДИЦИНСКИЕ ПРИПАСЫ</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>FUSE</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>ФАЗА 1</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>ПЛАНЕТАРНАЯ ПЛАТФОРМА</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>ОСНОВНАЯ ЗАДАЧА</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>Получи в локации по 3 ключ-карты ‘Alignment Blades’ и активируй антенны PAF-I, PAF-II и PAF-III</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						Найди терминалы обслуживания в небольших зданиях, чтобы открывать синие врата, комнаты трофеев или получить доступ к терминалам охраны
+						</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>Время печати ключ-карт PAF Maintenance Key и PAF Security Key - примерно 45 минут</p>
+					<p></p>
+					<p>Имея 3 ключ-карты Security Key направляйся в комнаты Security, Comms и Admin в здании с антенной
+						</p>
+					<p></p>
+					<p>Получи ключ-карты Alignment Blades в каждой комнате (время печати не известно)</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>Имея 3 ключ-карты Security Key направляйся в комнаты Security, Comms и Admin в здании с антенной
+						</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>Получи ключ-карты Alignment Blades в каждой комнате (время печати не известно)</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>Вставь каждую ключ-карту в Консоль Управления Антенной (цикл размещения - 1 минута)</p>
+					<p>Это пробудет червей Juvenile Valakkar рядом</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>Когда антенна раскроется - откроются жёлтые врата зарядной станции CHARGING STATION</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>Доставь батареи GP-XP Battery на орбитальную платформу OLP</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>ПАРКУРИСТАМ КЛЮЧИ НЕ НУЖНЫ!</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>PAF КЛЮЧИ</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>Alignment blade</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>ФАЗА 2</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>Орбитальная лазерная платформа</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>ОСНОВНАЯ ЗАДАЧА</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>Запитать лазерную установку и получить ключ-карту Laser Activation Key</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>ДОПОЛНИТЕЛЬНЫЕ ВОЗМОЖНОСТИ</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>В комнате управления есть 2 принтера ключ-карт OLP Storage Key для доступа к 4-м складам Storage Rooms</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>На двух посадочных площадках стоят открытые устройства для подключения Батарей Tractor GP-XP Battery</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>Отправляйтесь в центральную комнату управления (на нижнем этаже)</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						Если всё запитано и настроено - в середине панели управления появится кнопка для печати ключ-карты Laser Activation Key и запуска лазера
+						</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>OLP STORAGE KEY</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>НАЗЕМНЫЙ БУНКЕР УПРАВЛЕНИЯ</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>ФАЗА 3</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>ОСНОВНАЯ ЗАДАЧА</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>Найти бункер и активировать лазер!</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>У бункера нет координат и его трудно найти. Направляйтесь по вектору излучателя к поверхности
+						</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>Ищите квадратную точку на поверхности, если бункер не прогрузился</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>Бункер находится примерно в 1 км от точки удара лазера</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>В бункере вставьте ключ-карту Laser Activation Key. Начнётся обратный отсчёт - 5 секунд (время, чтобы выйти наружу)</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>ТОЧКА УДАРА ЛАЗЕРА</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>ФАЗА 4</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>ОСНОВНАЯ ЗАДАЧА</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>Роем роем яму!</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>В точке удара откроется пещера с рудами для ручного и ROC майнинга</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium и Carinite разных размеров</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>РУДЫ ЭКСТРЕМАЛЬНО НЕСТАБИЛЬНЫ</p>
+					<p>УПРАВЛЯЙТЕ ЭНЕРГИЕЙ ОСТОРОЖНО</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>ExpanseUnion</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
 		</v:sampleDataSets>
 	</variableSet>
 </variableSets>
