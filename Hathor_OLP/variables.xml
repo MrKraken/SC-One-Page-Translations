@@ -77,7 +77,7 @@
 			<variable  category="&ns_flows;" trait="textcontent" varName="TRANSLATED_BY"></variable>
 		</variables>
 		<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
-
+			
 			<v:sampleDataSet  dataSetName="en_GB">
 				<TITLE>
 					<p>ORBITAL LASER IGNITION</p>
@@ -90,8 +90,8 @@
 						</p>
 				</SUMMARY_LINE_1>
 				<SUMMARY_TITLE>
-					<p>VISTAZO</p>
-					<p>RÁPIDO</p>
+					<p>AT A</p>
+					<p>GLANCE</p>
 				</SUMMARY_TITLE>
 				<SUMMARY_LINE_2>
 					<p>Occupied by     9Tails gang with a fast respawn rate</p>
@@ -269,9 +269,9 @@
 					<p>MrKraken</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
-
-
-
+			
+			
+			
 			<v:sampleDataSet  dataSetName="fr_FR">
 				<TITLE>
 					<p>DÉMARRAGE LASER ORBITAL</p>
