@@ -871,7 +871,7 @@
 						<p>Ocupado por la banda de los     9Tails con una tasa de reaparición rápida</p>
 					</SUMMARY_LINE_2>
 					<SUMMARY_LINE_3>
-						<p>Se han añadido varios contratos nuevos que te envían a las instalaciones, incluyendo algunos no verificados</p>
+						<p>Se han añadido varios nuevos contratos que te envían a las instalaciones, incluyendo algunos no verificados</p>
 					</SUMMARY_LINE_3>
 					<SUMMARY_LINE_4>
 						<p>En Aberdeen y Daymar hay 2 'Orbital Laser Platforms' (OLP)</p>
@@ -933,14 +933,14 @@
 						<p>Consigue las Alignment Blades que se encuentran en cada sala (el tiempo de reaparición de las Blades es desconocido)</p>
 					</STAGE_1_4>
 					<STAGE_1_5>
-						<p>"Introduce cada Blade en la consola de Control de Antena (ciclo de 1 minuto) - Esto despertará a los </p>
-						<p>Valakkar juveniles alrededor de los controles.</p>
+						<p>"Introduce cada Blade en la consola de Control de la Antena (ciclo de 1 minuto) - Esto despertará a los </p>
+						<p>Valakkar juveniles alrededor de la zona de control.</p>
 					</STAGE_1_5>
 					<STAGE_1_6>
-						<p>Cuando la antena esté alineada, la puerta de la charging station opuesta se abrirá.</p>
+						<p>Cuando la antena esté alineada, la puerta de la charging station de enfrente se abrirá</p>
 					</STAGE_1_6>
 					<STAGE_1_7>
-						<p>Lleva la GP-XP Battery hasta la OLP (El MaxLift es necesario con gravedad).</p>
+						<p>Lleva la GP-XP Battery hasta la OLP (El MaxLift es necesario con gravedad)</p>
 					</STAGE_1_7>
 					<STAGE_1_PARKOUR_NOTE>
 						<p>¡NO GASTES UNA KEY SI PUEDES HACER PARKOUR!</p>
@@ -1000,13 +1000,13 @@
 							</p>
 					</STAGE_3_1>
 					<STAGE_3_2>
-						<p>Look for the square terrain tear if not in streaming distance</p>
+						<p>Identifica la discontinuidad de textura en forma de cuadrado en el terreno si no se ha cargado por la distancia de renderizado</p>
 					</STAGE_3_2>
 					<STAGE_3_3>
-						<p>Bunker is approx 1km from the laser impact point</p>
+						<p>El búnker está aproximadamente a 1 km del punto de impacto del láser</p>
 					</STAGE_3_3>
 					<STAGE_3_4>
-						<p>Once found, insert the Laser Activation Key &amp; start the 5 second countdown! (just enough time to run outside)</p>
+						<p>Una vez encontrado, inserta la Laser Activation Key en la consola y se iniciará una cuenta atrás de 5 segundos! (tiempo justo para salir corriendo)</p>
 					</STAGE_3_4>
 					<STAGE_4_TITLE>
 						<p>ZONA DE IMPACTO DEL LÁSER</p>
@@ -1021,7 +1021,7 @@
 						<p>¡Minando voy, minado vengo!</p>
 					</STAGE_4_OBJECTIVE>
 					<STAGE_4_1>
-						<p>La zona de impacto del láser revela una cueva con abundantes nodos aptos para minar manualmente, ATLS GEO y con ROC</p>
+						<p>La zona de impacto del láser revela una cueva con abundantes nodos aptos para minar manualmente y con vehículos (ATLS GEO y ROC)</p>
 					</STAGE_4_1>
 					<STAGE_4_2>
 						<p>Jaclium, Saldynium y Carinite, en tamaños variados</p>
