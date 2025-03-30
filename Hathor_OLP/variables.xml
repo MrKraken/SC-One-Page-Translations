@@ -847,8 +847,204 @@
 				<TRANSLATED_BY>
 					<p>Karajtek</p>
 				</TRANSLATED_BY>
+
+
 			</v:sampleDataSet>
-		</v:sampleDataSets>
+
+
+			<v:sampleDataSet  dataSetName="es_ES">
+					<TITLE>
+						<p>ENCENDIDO DEL LÁSER ORBITAL</p>
+					</TITLE>
+					<SUBTITLE>
+						<p>GUIA EN 1 PAGINA</p>
+					</SUBTITLE>
+					<SUMMARY_LINE_1>
+						<p>Las instalaciones 'Derelict' de      Hathor son ubicaciónes de misión que combinan actividades sandbox de tierra y aire.
+							</p>
+					</SUMMARY_LINE_1>
+					<SUMMARY_TITLE>
+						<p>VISTAZO</p>
+						<p>RÁPIDO</p>
+					</SUMMARY_TITLE>
+					<SUMMARY_LINE_2>
+						<p>Ocupado por la banda de los     9Tails con una tasa de reaparición rápida</p>
+					</SUMMARY_LINE_2>
+					<SUMMARY_LINE_3>
+						<p>Se han añadido varios nuevos contratos que te envían a las instalaciones, incluyendo algunos no verificados</p>
+					</SUMMARY_LINE_3>
+					<SUMMARY_LINE_4>
+						<p>En Aberdeen y Daymar hay 2 'Orbital Laser Platforms' (OLP)</p>
+					</SUMMARY_LINE_4>
+					<SUMMARY_LINE_5>
+						<p>Cada OLP tiene un bunker de control que no está marcado y</p>
+						<p>3 'Planetary Alignment Facilities' (PAF)</p>
+					</SUMMARY_LINE_5>
+					<SAFETY_TITLE>
+						<p>SEGURIDAD</p>
+						<p>ANTE TODO</p>
+					</SAFETY_TITLE>
+					<SAFETY_INFO>
+						<p>Ojo, ve equipado, los NPC reaparecen muy rápido y pegan duro</p>
+						<p>Llevar una nave/vehículo con cama médica es una buena idea</p>
+					</SAFETY_INFO>
+					<SAFETY_ITEMS>
+						<p>Objetos necesarios para las actividades PAF/OLP:</p>
+					</SAFETY_ITEMS>
+					<ITEM_MAXLIFT>
+						<p>MaxLift Tractor</p>
+					</ITEM_MAXLIFT>
+					<ITEM_MEDICAL>
+						<p>SUMINISTROS MÉDICOS</p>
+					</ITEM_MEDICAL>
+					<ITEM_FUSE>
+						<p>FUSIBLE (FUSE)</p>
+					</ITEM_FUSE>
+					<STAGE_1_NUM>
+						<p>FASE 1</p>
+					</STAGE_1_NUM>
+					<STAGE_1_TITLE>
+						<p>INSTALACIÓN DE ALINEACIÓN PLANETARIA</p>
+					</STAGE_1_TITLE>
+					<STAGE_1_OBJECTIVE_TITLE>
+						<p>OBJETIVO PRINCIPAL</p>
+					</STAGE_1_OBJECTIVE_TITLE>
+					<STAGE_1_OBJECTIVE>
+						<p>Consigue 3 ‘Alignment Blades’ por cada ubicación para activar los Controles de Antena en PAF-I, PAF-II y PAF-III</p>
+					</STAGE_1_OBJECTIVE>
+					<STAGE_1_1>
+						<p>
+							Busca los terminales de mantenimiento en los edificios más pequeños para abrir puertas de garaje azules que dan acceso a salas de loot o a una terminal de seguridad
+							</p>
+					</STAGE_1_1>
+					<STAGE_1_2>
+						<p>Existe un tiempo de espera de 45 minutos para imprimir de nuevo las PAF Maintenance Keys y las PAF Security Keys</p>
+						<p></p>
+						<p>Cuando tengas las 3 PAF Security Keys, dirígete a la base de la antena para acceder a las salas de Security, Comms y Admin
+							</p>
+						<p></p>
+						<p>Consigue las Alignment Blades que se encuentran en cada sala (el tiempo de reaparición de las Blades es desconocido)</p>
+					</STAGE_1_2>
+					<STAGE_1_3>
+						<p>Cuando tengas las 3 PAF Security Keys, dirígete a la base de la antena para acceder a las salas de Security, Comms y Admin
+							</p>
+					</STAGE_1_3>
+					<STAGE_1_4>
+						<p>Consigue las Alignment Blades que se encuentran en cada sala (el tiempo de reaparición de las Blades es desconocido)</p>
+					</STAGE_1_4>
+					<STAGE_1_5>
+						<p>"Introduce cada Blade en la consola de Control de la Antena (ciclo de 1 minuto) - Esto despertará a los </p>
+						<p>Valakkar juveniles alrededor de la zona de control.</p>
+					</STAGE_1_5>
+					<STAGE_1_6>
+						<p>Cuando la antena esté alineada, la puerta de la charging station de enfrente se abrirá</p>
+					</STAGE_1_6>
+					<STAGE_1_7>
+						<p>Lleva la GP-XP Battery hasta la OLP (El MaxLift es necesario con gravedad)</p>
+					</STAGE_1_7>
+					<STAGE_1_PARKOUR_NOTE>
+						<p>¡NO GASTES UNA KEY SI PUEDES HACER PARKOUR!</p>
+					</STAGE_1_PARKOUR_NOTE>
+					<ITEM_PAF_KEYS>
+						<p>PAF KEYS</p>
+					</ITEM_PAF_KEYS>
+					<ITEM_ALIGNMENT_BLADE>
+						<p>Alignment blade</p>
+					</ITEM_ALIGNMENT_BLADE>
+					<STAGE_2_NUM>
+						<p>FASE 2</p>
+					</STAGE_2_NUM>
+					<STAGE_2_TITLE>
+						<p>Plataforma Láser Orbital (OLP)</p>
+					</STAGE_2_TITLE>
+					<STAGE_2_OBJECTIVE_TITLE>
+						<p>OBJETIVO PRINCIPAL</p>
+					</STAGE_2_OBJECTIVE_TITLE>
+					<STAGE_2_OBJECTIVE>
+						<p>Enciende el láser y obtén la Laser Activation Key</p>
+					</STAGE_2_OBJECTIVE>
+					<STAGE_2_SIDE_TITLE>
+						<p>OBJETIVO SECUNDARIO</p>
+					</STAGE_2_SIDE_TITLE>
+					<STAGE_2_SIDE>
+						<p>Hay 2 impresoras de OLP Storage Key en el área de control principal para acceder a las 4 Storage Rooms</p>
+					</STAGE_2_SIDE>
+					<STAGE_2_1>
+						<p>Con el tractor, desplaza las GP-XP Battery a las Power Units abiertas situadas en los 2 landings pads</p>
+					</STAGE_2_1>
+					<STAGE_2_2>
+						<p>Ve a la sala de control central (planta inferior)</p>
+					</STAGE_2_2>
+					<STAGE_2_3>
+						<p>
+							Si todo está conectado (baterías) y alineado (antenas): El botón de activación estará en el centro de la consola para imprimir la laser activation key e iniciar la carga del láser
+							</p>
+					</STAGE_2_3>
+					<ITEM_OLP_STORAGEKEY>
+						<p>OLP STORAGE KEY</p>
+					</ITEM_OLP_STORAGEKEY>
+					<STAGE_3_TITLE>
+						<p>BÚNKER DE ACTIVACIÓN TERRESTRE</p>
+					</STAGE_3_TITLE>
+					<STAGE_3_NUM>
+						<p>FASE 3</p>
+					</STAGE_3_NUM>
+					<STAGE_3_OBJECTIVE_TITLE>
+						<p>OBJETIVO PRINCIPAL</p>
+					</STAGE_3_OBJECTIVE_TITLE>
+					<STAGE_3_OBJECTIVE_TEXT>
+						<p>¡Localiza el búnker y activa el láser!</p>
+					</STAGE_3_OBJECTIVE_TEXT>
+					<STAGE_3_1>
+						<p>El búnker no presenta firma de identificación ni marcador, desciende en línea recta desde el punto de emisión del láser en la OLP
+							</p>
+					</STAGE_3_1>
+					<STAGE_3_2>
+						<p>Identifica la discontinuidad de textura en forma de cuadrado en el terreno si no se ha cargado por la distancia de renderizado</p>
+					</STAGE_3_2>
+					<STAGE_3_3>
+						<p>El búnker está aproximadamente a 1 km del punto de impacto del láser</p>
+					</STAGE_3_3>
+					<STAGE_3_4>
+						<p>Una vez encontrado, inserta la Laser Activation Key en la consola y se iniciará una cuenta atrás de 5 segundos! (tiempo justo para salir corriendo)</p>
+					</STAGE_3_4>
+					<STAGE_4_TITLE>
+						<p>ZONA DE IMPACTO DEL LÁSER</p>
+					</STAGE_4_TITLE>
+					<STAGE_4_NUM>
+						<p>FASE 4</p>
+					</STAGE_4_NUM>
+					<STAGE_4_OBJECTIVE_TITLE>
+						<p>OBJETIVO PRINCIPAL</p>
+					</STAGE_4_OBJECTIVE_TITLE>
+					<STAGE_4_OBJECTIVE>
+						<p>¡Minando voy, minado vengo!</p>
+					</STAGE_4_OBJECTIVE>
+					<STAGE_4_1>
+						<p>La zona de impacto del láser revela una cueva con abundantes nodos aptos para minar manualmente y con vehículos (ATLS GEO y ROC)</p>
+					</STAGE_4_1>
+					<STAGE_4_2>
+						<p>Jaclium, Saldynium y Carinite, en tamaños variados</p>
+					</STAGE_4_2>
+					<ITEM_JACLIUM>
+						<p>Jaclium</p>
+					</ITEM_JACLIUM>
+					<ITEM_SALDYNIUM>
+						<p>Saldynium</p>
+					</ITEM_SALDYNIUM>
+					<ITEM_CARINITE>
+						<p>Carinite</p>
+					</ITEM_CARINITE>
+					<ORE_WARNING>
+						<p>MINERALES EXTREMADAMENTE SENSIBLES</p>
+						<p>GESTIONAR LA ENERGÍA CON CUIDADO</p>
+					</ORE_WARNING>
+					<TRANSLATED_BY>
+						<p>AutovotESP</p>
+					</TRANSLATED_BY>
+				</v:sampleDataSet>
+
+			</v:sampleDataSets>
 	</variableSet>
 </variableSets>
 </svg>
