@@ -195,14 +195,14 @@
 					<p>2 imprimantes de clés de stockage OLP dans la salle de contrôle principale (accès aux 4 salles de stockage)</p>
 				</STAGE_2_SIDE>
 				<STAGE_2_1>
-					<p>MaxLift les GP-XP pour ouvrir les unités d’alimentation sur les plateformes d’atterrissage</p>
+					<p>MaxLift les GP-XP pour ouvrir les unités d’alimentation</p>
 				</STAGE_2_1>
 				<STAGE_2_2>
 					<p>Se rendre à la salle de contrôle centrale (niveau inférieur)</p>
 				</STAGE_2_2>
 				<STAGE_2_3>
 					<p>
-						Si tous les systèmes sont alimentés &amp; alignés, le bouton d’activation sera au centre de la console pour imprimer la clé d’activation du laser &amp; lancer la charge du laser
+						Si tout est ok, le bouton d’activation sera au centre de la console pour imprimer la clé d’activation du laser &amp; lancer la charge du laser
 						</p>
 				</STAGE_2_3>
 				<ITEM_OLP_STORAGEKEY>
@@ -246,7 +246,6 @@
 					<p>Creusons, creusons un trou!</p>
 				</STAGE_4_OBJECTIVE>
 				<STAGE_4_1>
-					<p>Laser impact site opens up a cave filled with Hand &amp; ROC ore nodes</p>
 					<p>L’impact du laser ouvre une grotte pour l’extraction à la main &amp; en ROC</p>
 				</STAGE_4_1>
 				<STAGE_4_2>
