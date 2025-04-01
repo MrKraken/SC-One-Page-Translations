@@ -272,13 +272,13 @@
 			
 			<v:sampleDataSet  dataSetName="ca_ES">
 				<TITLE>
-					<p>ENCESA DEL lÀSER ORBITAL</p>
+					<p>ENCESA DEL LÀSER ORBITAL</p>
 				</TITLE>
 				<SUBTITLE>
-					<p>GUÍA D'UNA PÀGINA</p>
+					<p>GUIA EN UNA PÀGINA</p>
 				</SUBTITLE>
 				<SUMMARY_LINE_1>
-					<p>Les ‘abandonades’      instal·lacions Hathor són una ubicació de missió combinada amb una activitat sandbox per a terra &amp;  aire</p>
+					<p>Les instal·lacions ‘abandonades’       Hathor són una ubicació de missió, combinada amb una activitat sandbox per terra &amp; aire</p>
 				</SUMMARY_LINE_1>
 				<SUMMARY_TITLE>
 					<p>D'UNA</p>
@@ -360,7 +360,7 @@
 					<p>Transporta la bateria GP-XP a OLP (es necessita MaxLift a 1g)</p>
 				</STAGE_1_7>
 				<STAGE_1_PARKOUR_NOTE>
-					<p>NO MALGASTIS UNA CLAU QUAN PODRÍES FER PARKOUR!</p>
+					<p>NO MALGASTIS UNA CLAU SI POTS FER PARKOUR!</p>
 				</STAGE_1_PARKOUR_NOTE>
 				<ITEM_PAF_KEYS>
 					<p>CLAUS PAF</p>
@@ -398,10 +398,10 @@
 						</p>
 				</STAGE_2_3>
 				<ITEM_OLP_STORAGEKEY>
-					<p>CLAU D'EMMAGATZEMATGE OLP</p>
+					<p>CLAU DE MAGATZEM OLP</p>
 				</ITEM_OLP_STORAGEKEY>
 				<STAGE_3_TITLE>
-					<p>ACTIVACIÓ EN BÚNKER TERRESTRE</p>
+					<p>BÚNKER D'ACTIVACIÓ TERRESTRE</p>
 				</STAGE_3_TITLE>
 				<STAGE_3_NUM>
 					<p>FASE 3</p>
