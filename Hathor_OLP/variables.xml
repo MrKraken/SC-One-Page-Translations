@@ -270,7 +270,197 @@
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
 			
-			
+			<v:sampleDataSet  dataSetName="ru_RU">
+				<TITLE>
+					<p>ЗАПУСК ОРБИТАЛЬНОГО ЛАЗЕРА</p>
+				</TITLE>
+				<SUBTITLE>
+					<p>ЛИСТ-РУКОВОДСТВО</p>
+				</SUBTITLE>
+				<SUMMARY_LINE_1>
+					<p>‘Заброщенные’      Комплексы Хатор это места для миссий и песочницы для наземных &amp; боёв
+						</p>
+				</SUMMARY_LINE_1>
+				<SUMMARY_TITLE>
+					<p>БЫСТРЫЙ</p>
+					<p>ОБЗОР</p>
+				</SUMMARY_TITLE>
+				<SUMMARY_LINE_2>
+					<p>Захвачены     бандой 9Хвостов с быстрой скоростю респавна</p>
+				</SUMMARY_LINE_2>
+				<SUMMARY_LINE_3>
+					<p>Есть несколько новых контрактов для наёмников, которые направят вас к этим комплексам, включая Неподтверждённые контракты</p>
+				</SUMMARY_LINE_3>
+				<SUMMARY_LINE_4>
+					<p>Абердин &amp; Дэймар имеют 2 Орбитальные лазерные платформы (ОЛП)</p>
+				</SUMMARY_LINE_4>
+				<SUMMARY_LINE_5>
+					<p>Каждая ОЛП соединена с 1 неотмеченным бункером управления &amp;</p>
+					<p>3 Планетарные платформы позиционирования (ППП)</p>
+				</SUMMARY_LINE_5>
+				<SAFETY_TITLE>
+					<p>БЕЗОПАСНОСТЬ</p>
+					<p>ПРЕВЫШЕ ВСЕГО</p>
+				</SAFETY_TITLE>
+				<SAFETY_INFO>
+					<p>Приготовьтесь, НПЦ появляются быстро и &amp; бьют больно</p>
+					<p>Хорошей идеей будет взять Nursa/Medipin/Cutty Red или C8R</p>
+				</SAFETY_INFO>
+				<SAFETY_ITEMS>
+					<p>Вещи необходимые для активностей на ППП/ОЛП:</p>
+				</SAFETY_ITEMS>
+				<ITEM_MAXLIFT>
+					<p>MaxLift Tractor</p>
+				</ITEM_MAXLIFT>
+				<ITEM_MEDICAL>
+					<p>МЕД. ПРИПАСЫ</p>
+				</ITEM_MEDICAL>
+				<ITEM_FUSE>
+					<p>Предохранитель</p>
+				</ITEM_FUSE>
+				<STAGE_1_NUM>
+					<p>СТАДИЯ 1</p>
+				</STAGE_1_NUM>
+				<STAGE_1_TITLE>
+					<p>Планетарные платформы позиционирования</p>
+				</STAGE_1_TITLE>
+				<STAGE_1_OBJECTIVE_TITLE>
+					<p>ОСНОВНЫЕ ЗАДАЧИ</p>
+				</STAGE_1_OBJECTIVE_TITLE>
+				<STAGE_1_OBJECTIVE>
+					<p>Заполучить 3 ‘Платы позиционирования’ с каждой локации чтобы активировать управаление тарелками в PAF-I, PAF-II &amp; PAF-III</p>
+				</STAGE_1_OBJECTIVE>
+				<STAGE_1_1>
+					<p>
+						Ищите терминалы обслуживания в небольших зданиях чтобы открыть синие гаражные двери за которыми есть комнаты с лутом или доступ к терминалу безопасности
+						</p>
+				</STAGE_1_1>
+				<STAGE_1_2>
+					<p>Распечатка служебных ключей ППП &amp; Охранные ключи ППП имеют 45 мин. перезарядку</p>
+					<p></p>
+					<p>Когда у вас будет 3 Ключа охраны к зданию у подножья антенны  чтобы получить доступ к Охране, Связи &amp; комнатам Администрации
+						</p>
+					<p></p>
+					<p>Заполучите Платы позиционирования из каждой комнаты (Время появления плат неизвестно)</p>
+				</STAGE_1_2>
+				<STAGE_1_3>
+					<p>Когда у вас будет 3 Ключа охраны к зданию у подножья антенны  чтобы получить доступ к Охране, Связи &amp; комнатам Администрации
+						</p>
+				</STAGE_1_3>
+				<STAGE_1_4>
+					<p>Заполучите Платы позиционирования из каждой комнаты (Время появления плат неизвестно)</p>
+				</STAGE_1_4>
+				<STAGE_1_5>
+					<p>Вставьте каждую плату в консоль управления тарелкой (1 минута на каждый) - это пробудит </p>
+					<p>Juvenile Valakkar в районе управления</p>
+				</STAGE_1_5>
+				<STAGE_1_6>
+					<p>Когда тарелка отпозиционируется то откроется зарядочная станция</p>
+				</STAGE_1_6>
+				<STAGE_1_7>
+					<p>Возьмите Батарею GP-XP на ОЛП (MaxLift необходим при 1g)</p>
+				</STAGE_1_7>
+				<STAGE_1_PARKOUR_NOTE>
+					<p>НЕ ТРЕТЬТЕ КЛЮЧИ ЕСЛИ МОЖНО КУДА-ТО ЗАПРЫГНУТЬ!</p>
+				</STAGE_1_PARKOUR_NOTE>
+				<ITEM_PAF_KEYS>
+					<p>КЛЮЧИ ППП</p>
+				</ITEM_PAF_KEYS>
+				<ITEM_ALIGNMENT_BLADE>
+					<p>Плата позиционирования</p>
+				</ITEM_ALIGNMENT_BLADE>
+				<STAGE_2_NUM>
+					<p>СТАДИЯ 2</p>
+				</STAGE_2_NUM>
+				<STAGE_2_TITLE>
+					<p>Орбитальная лазерная платформа</p>
+				</STAGE_2_TITLE>
+				<STAGE_2_OBJECTIVE_TITLE>
+					<p>ОСНОВНЫЕ ЗАДАЧИ</p>
+				</STAGE_2_OBJECTIVE_TITLE>
+				<STAGE_2_OBJECTIVE>
+					<p>Запитать лазер &amp; получить Ключ активации лазера</p>
+				</STAGE_2_OBJECTIVE>
+				<STAGE_2_SIDE_TITLE>
+					<p>ДОП. ИНТЕРЕС</p>
+				</STAGE_2_SIDE_TITLE>
+				<STAGE_2_SIDE>
+					<p>2 принтера ключай Хранилища ОЛП в главной зоне управления для доступа в 4 Хранилища</p>
+				</STAGE_2_SIDE>
+				<STAGE_2_1>
+					<p>Перенесите Батареи GP-XP к открытым Силовым Узлам на 2х Посадочных площадках</p>
+				</STAGE_2_1>
+				<STAGE_2_2>
+					<p>Следуйте к центральной комнате управления (нижний этаж)</p>
+				</STAGE_2_2>
+				<STAGE_2_3>
+					<p>
+						Если всё запитано &amp; позиционировано: Кнопка активации будет посередине чтобы распечатать ключ активации лазера &amp; начать зарядку лазера
+						</p>
+				</STAGE_2_3>
+				<ITEM_OLP_STORAGEKEY>
+					<p>Ключ Хранилища ОЛП</p>
+				</ITEM_OLP_STORAGEKEY>
+				<STAGE_3_TITLE>
+					<p>НАЗЕМНЫЙ БУНКЕР АКТИВАЦИИ</p>
+				</STAGE_3_TITLE>
+				<STAGE_3_NUM>
+					<p>СТАДИЯ 3</p>
+				</STAGE_3_NUM>
+				<STAGE_3_OBJECTIVE_TITLE>
+					<p>ОСНОВНЫЕ ЗАДАЧИ</p>
+				</STAGE_3_OBJECTIVE_TITLE>
+				<STAGE_3_OBJECTIVE_TEXT>
+					<p>Найти бункер &amp; включить лазер!</p>
+				</STAGE_3_OBJECTIVE_TEXT>
+				<STAGE_3_1>
+					<p>У Бункера нет ни сигнатуры ни маркера &amp; обнаружить может быть сложно, следуйте резко вниз от точки излучения лазера
+						</p>
+				</STAGE_3_1>
+				<STAGE_3_2>
+					<p>Ищите квадратный кусок земли если бункер ещё не в зоне прогрузки</p>
+				</STAGE_3_2>
+				<STAGE_3_3>
+					<p>Бункер примерно в 1 км от места удара лазера</p>
+				</STAGE_3_3>
+				<STAGE_3_4>
+					<p>Как найдёте, вставьте Ключ активации лазера &amp; начнётся обратный отсчёт на 5 секунд! (достаточно чтобы выбежать наружу)</p>
+				</STAGE_3_4>
+				<STAGE_4_TITLE>
+					<p>МЕСТО ПОПАДАНИЯ ЛАЗЕРА</p>
+				</STAGE_4_TITLE>
+				<STAGE_4_NUM>
+					<p>СТАДИЯ 4</p>
+				</STAGE_4_NUM>
+				<STAGE_4_OBJECTIVE_TITLE>
+					<p>ОСНОВНЫЕ ЗАДАЧИ</p>
+				</STAGE_4_OBJECTIVE_TITLE>
+				<STAGE_4_OBJECTIVE>
+					<p>Роем роем мы тоннель!</p>
+				</STAGE_4_OBJECTIVE>
+				<STAGE_4_1>
+					<p>Удар лазера открывает доступ в пещеру с кусками руды для Ручой &amp; ROC добычи</p>
+				</STAGE_4_1>
+				<STAGE_4_2>
+					<p>Jaclium, Saldynium &amp; Carinite разных размеров</p>
+				</STAGE_4_2>
+				<ITEM_JACLIUM>
+					<p>Jaclium</p>
+				</ITEM_JACLIUM>
+				<ITEM_SALDYNIUM>
+					<p>Saldynium</p>
+				</ITEM_SALDYNIUM>
+				<ITEM_CARINITE>
+					<p>Carinite</p>
+				</ITEM_CARINITE>
+				<ORE_WARNING>
+					<p>РУДА КРАЙНЕ ЧУВСТВИТЕЛЬНАЯ</p>
+					<p>ОСТОРОЖНО УПРАВЛЯЙТЕ МОЩНОСТЬЮ</p>
+				</ORE_WARNING>
+				<TRANSLATED_BY>
+					<p>Sonoshee</p>
+				</TRANSLATED_BY>
+			</v:sampleDataSet>
 			
 			<v:sampleDataSet  dataSetName="fr_FR">
 				<TITLE>
@@ -464,7 +654,6 @@
 					<p>kiouv</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
-
 
 			<v:sampleDataSet  dataSetName="zh_CN">
 				<TITLE>
