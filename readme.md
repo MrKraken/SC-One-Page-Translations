@@ -32,12 +32,16 @@ You can find the rendered versions on my [Community Hub profile](https://roberts
   - [x] 🇨🇳 by cfdxkk / 星际公民中文百科
   - [x] 🇭🇺 by Karajtek
 - [Storm Breaker](https://robertsspaceindustries.com/community-hub/post/storm-breaker-one-page-guide-XTU7HaiJkZyFs)
-  - [X] 🇧🇷 by [Nxzzin](https://x.com/onxzzin) *(will be rendered 2025-06-25)*
+  - [x] 🇧🇷 Portuguese by [Nxzzin](https://x.com/onxzzin)
   - [x] 🇩🇪 by [L4ndry_de](https://x.com/L4ndry_de)
   - [x] 🇫🇷 by m0nzo / ThunderTRPs / Globy
   - [x] 🇺🇦 by Mr_Foxer / [Star Citizen #УкрТг](https://t.me/s/starcitizen_news)
   - [x] 🇪🇸 by one hundred nine 
-  - [X] 🇷🇺 by angu1ss / Ereglath / Chaos Vanguard *(will be rendered 2025-06-25)*
+  - [X] 🇷🇺 by angu1ss / Ereglath / Chaos Vanguard
   - [x] 🇪🇸-CT by [Jordi](https://x.com/jansol)
   - [x] 🇭🇺 by Karajtek
-  - [X] 🇰🇷 by chanyuii *(will be rendered 2025-06-25)*
+  - [X] 🇰🇷 by chanyuii
+  - [x] 🇷🇺 by angu1ss / Ereglath / Chaos Vanguard
+  - [x] 🇪🇸-CT by [Jordi](https://x.com/jansol)
+  - [x] 🇭🇺 by Karajtek
+  - [x] 🇰🇷 by chanyuii
